@@ -1,0 +1,1 @@
+print([(num + 10) / 2 for num in [1, 2, 3, 4, 5]])
